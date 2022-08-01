@@ -12,7 +12,7 @@ $ mkdir -p ldlidar_ros_ws/src
 
 $ cd ldlidar_ros_ws/src
 
-$ git clone  
+$ git clone  https://github.com/DFRobotdl/ldlidar_stl_ros.git
 
 ```
 
@@ -126,7 +126,7 @@ $ mkdir -p ldlidar_ros_ws/src
 
 $ cd ldlidar_ros_ws/src
 
-$ git clone  https://github.com/ldrobotSensorTeam/ldlidar_stl_ros.git
+$ git clone  https://github.com/DFRobotdl/ldlidar_stl_ros.git
 
 ```
 ## step 1: system setup
